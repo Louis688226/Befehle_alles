@@ -22,3 +22,6 @@ lokalen branch aktualiesieren mit remote(z.b nach online merge):
 	git pull
 
 
+remote orgin von repo:
+	git remote add origin ""URLHTTPS""
+
