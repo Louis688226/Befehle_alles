@@ -1,0 +1,24 @@
+Branch wechseln:
+	git checkout """""""""
+
+
+Erstellen:
+	git checkout -b neuer-branch-Name
+
+
+Hochladen:
+	git push -u  origin branch-name
+	immer automaisch
+
+
+local branch löschen:
+	git branch -d """"
+
+remote branch löschen:
+	git push origin --delete """""
+
+
+lokalen branch aktualiesieren mit remote(z.b nach online merge):
+	git pull
+
+
