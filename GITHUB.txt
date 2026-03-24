@@ -21,7 +21,9 @@ remote branch löschen:
 lokalen branch aktualiesieren mit remote(z.b nach online merge):
 	git pull
 
+lokale branch auf remote branch pushen:
+	git push
 
-remote orgin von repo:
+remote orgin von repo(am anfang):
 	git remote add origin ""URLHTTPS""
 
